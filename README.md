@@ -1,5 +1,6 @@
-# Multiclass-Classification-Iris
+# CNN model to detect Iris flower type
 
-- A Deep neural model that **classifies Iris species**.
-- Training a multiclass classifier that reliably predicts Specie type when given *petal* and *sepal features*.
-- Using k-fold cross validation technique to obtain better validation score.
+- A model that **classifies Iris species**.
+- Training a multiclass classifier that reliably predicts Specie type with Inception as convolutional base.
+- 
+
